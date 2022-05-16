@@ -1,8 +1,8 @@
 import PySimpleGUI as sg
 import time
 import pyautogui
-import os
-import shutil
+#import os
+#import shutil
 
 # Define the window's contents
 layout = [[sg.Text("Destinasjonen til filene du vil exportere")],
